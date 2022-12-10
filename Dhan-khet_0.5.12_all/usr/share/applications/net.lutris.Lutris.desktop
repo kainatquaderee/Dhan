@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Dhan-khet
+Comment=Video Game Preservation Platform
+Categories=Game;
+Keywords=gaming;wine;dhan;emulator;
+Exec=dhan-khet %U
+Icon=dhan-khet
+Terminal=false
+Type=Application
+MimeType=x-scheme-handler/lutris;
+X-GNOME-UsesNotifications=true
